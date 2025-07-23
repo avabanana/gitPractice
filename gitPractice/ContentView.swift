@@ -19,6 +19,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("My fav color is pink")
             Text("Actually, I changed my mind. It's blue.")
+            Text("Change 3")
         }
         .padding()
     }
